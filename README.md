@@ -4,3 +4,8 @@
 技术点：DOM中位置尺寸API的使用，用CSS3实现机器人的动画效果，用Canvas画布实现气泡效果等.
 # Image
 ![image](https://user-images.githubusercontent.com/92011625/143985396-98889134-f09f-4a93-8766-8af09bb9e0d6.png)
+
+![image](https://user-images.githubusercontent.com/92011625/143985504-30a622bd-976d-4ac8-8860-eef0f6e243d7.png)
+
+![image](https://user-images.githubusercontent.com/92011625/143985556-e6b7969c-e9a4-4272-908b-8bed80f9a12b.png)
+
